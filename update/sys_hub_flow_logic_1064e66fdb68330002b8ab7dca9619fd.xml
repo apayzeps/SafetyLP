@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">0a54a66fdb68330002b8ab7dca9619f3</block>
+        <comment/>
+        <connected_to>e537602e-8406-4410-8103-83de8313d06c</connected_to>
+        <display_text/>
+        <flow display_value="Safety issue approval">4864e66fdb68330002b8ab7dca9619d6</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>3</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-07 20:15:37</sys_created_on>
+        <sys_id>1064e66fdb68330002b8ab7dca9619fd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_299041_safety">7d435863db10330002b8ab7dca9619a3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">7d435863db10330002b8ab7dca9619a3</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_1064e66fdb68330002b8ab7dca9619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-07 20:15:37</sys_updated_on>
+        <ui_id>8c54a214-50f2-40f6-9d62-21ac0d69dfe7</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=1064e66fdb68330002b8ab7dca9619fd"/>
+</record_update>
